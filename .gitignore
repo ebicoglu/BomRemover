@@ -265,6 +265,7 @@ tempkey.jwk
 appsettings.secrets.json
 
 
-.vs/*
-bin/*
-obj/*
+.vs/*.*
+bin/*.*
+obj/*.*
+*.dll
