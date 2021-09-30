@@ -1,0 +1,16 @@
+C:\Users\alper\source\repos\BomRemover\bin\Debug\net5.0\BomRemover.exe
+C:\Users\alper\source\repos\BomRemover\bin\Debug\net5.0\BomRemover.deps.json
+C:\Users\alper\source\repos\BomRemover\bin\Debug\net5.0\BomRemover.runtimeconfig.json
+C:\Users\alper\source\repos\BomRemover\bin\Debug\net5.0\BomRemover.runtimeconfig.dev.json
+C:\Users\alper\source\repos\BomRemover\bin\Debug\net5.0\BomRemover.dll
+C:\Users\alper\source\repos\BomRemover\bin\Debug\net5.0\ref\BomRemover.dll
+C:\Users\alper\source\repos\BomRemover\bin\Debug\net5.0\BomRemover.pdb
+C:\Users\alper\source\repos\BomRemover\obj\Debug\net5.0\BomRemover.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\BomRemover\obj\Debug\net5.0\BomRemover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\BomRemover\obj\Debug\net5.0\BomRemover.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\BomRemover\obj\Debug\net5.0\BomRemover.AssemblyInfo.cs
+C:\Users\alper\source\repos\BomRemover\obj\Debug\net5.0\BomRemover.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\BomRemover\obj\Debug\net5.0\BomRemover.dll
+C:\Users\alper\source\repos\BomRemover\obj\Debug\net5.0\ref\BomRemover.dll
+C:\Users\alper\source\repos\BomRemover\obj\Debug\net5.0\BomRemover.pdb
+C:\Users\alper\source\repos\BomRemover\obj\Debug\net5.0\BomRemover.genruntimeconfig.cache
